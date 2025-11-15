@@ -1,1 +1,1 @@
-# -docs-assets
+![Book logo]
